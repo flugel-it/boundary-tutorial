@@ -140,7 +140,7 @@ BOUNDARY_ADDR='http://<YOUR-ELB-DNS-NAME>:9200' \
 ![Image](images/get_id_tgt.png?raw=true)
 
 
-### Connect to the instance
+### Connect to the target
 
 ```
 BOUNDARY_ADDR='http://<YOUR-ELB-DNS-NAME>:9200' \
