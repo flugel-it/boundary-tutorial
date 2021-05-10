@@ -57,7 +57,7 @@ or download directly [here](https://www.boundaryproject.io/downloads) extract an
 ### Clone the boundary reference repository and execute the terraform plan.
 
 ```
-git clone git clone git@github.com:hashicorp/boundary-reference-architecture.git
+git clone git@github.com:hashicorp/boundary-reference-architecture.git
 
 cd boundary-reference-architecture/deployment/aws
 
